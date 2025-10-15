@@ -13,7 +13,7 @@ body {
 
 /* Estilos de encabezados */
 h1 {
-    color: #cc0000; /* Rojo vibrante, como el traje de Flash Gordon */
+    color: green; 
     text-align: center;
     border-bottom: 2px solid #ffcc00; /* Línea de color amarillo/oro */
     padding-bottom: 10px;
